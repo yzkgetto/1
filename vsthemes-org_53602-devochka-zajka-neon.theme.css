@@ -1,0 +1,27 @@
+/**
+ * @name Bunny girl - Neon
+ * @author DeNarmor
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/53602-devochka-zajka-neon.html
+ * @authorLink https://vsthemes.org/user/DeNarmor/
+ * @authorId 125301
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 26,0,6;
+    --transparencyalpha: 0.15;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.75;
+    --memberlistransparency: 0.75;
+    --accentcolor: 214,0,51;
+    --background: url("https://vsthemes.org/uploads/posts/2022-10/1665349408_anime-girl-with-guitar-5k-cs-3840x2160.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
